@@ -1,0 +1,6 @@
+name: astrbot_plugin_style_archive
+display_name: 语料归档
+desc: 把群聊/私聊文字消息按天归档为 jsonl，并标记哪几条是账号本人所写，用于收集自己的说话风格语料
+version: v1.0.0
+author: sushi716
+repo: https://github.com/sushi716/astrbot_plugin_style_archive
